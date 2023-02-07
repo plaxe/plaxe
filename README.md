@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @plaxe
-- 👀 I’m interested in Javascript and .NET
-- 💞️ I’m looking to collaborate on Javascript
-- 📫 How to reach me mongods@icloud.com
+- 🍋 i'm @plaxe
 
-<!---
-plaxe/plaxe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+my stack:
+  🐦 front    :  Javascript, Angualr, Vue, rxjs, gulp
+  🍀 back     :  .NET, C++
+  📧 broker   :  KAFKA
+  🐈 cloud    :  AWS, AZURE
+  🏀 database :  SQL server, mongodb, mysql
