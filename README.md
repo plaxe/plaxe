@@ -1,6 +1,6 @@
 # 🍋 @plaxe
  
-		- 🐦 front    :  Javascript, Angualr, Vue, rxjs, gulp
+		- 🐦 front    :  Javascript, Angular, Vue, rxjs, gulp
 		- 🍀 back     :  .NET, C++
 		- 📧 broker   :  KAFKA
 		- 🐈 cloud    :  AWS, AZURE
