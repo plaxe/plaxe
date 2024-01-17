@@ -4,4 +4,4 @@
 		- 🍀 back     :  .NET, C++
 		- 📧 broker   :  KAFKA
 		- 🐈 cloud    :  AWS, AZURE
-		- 🏀 database :  SQL server, mongodb, mysql
+		- 🏀 database :  SQL server, mongodb, mysql, Redis
